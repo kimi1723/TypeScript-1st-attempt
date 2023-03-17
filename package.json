@@ -1,0 +1,20 @@
+{
+	"name": "typescript-1st-attempt",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"compile": "tsc --watch"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kimi1723/TypeScript-1st-attempt.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/kimi1723/TypeScript-1st-attempt/issues"
+	},
+	"homepage": "https://github.com/kimi1723/TypeScript-1st-attempt#readme"
+}
